@@ -38,8 +38,8 @@ API REST para sistema de gestión de taller de reparación de teléfonos. Módul
 ## Correr localmente
 
 ```bash
-git clone https://github.com/Mickaell22/serverDawa.git
-cd serverDawa
+git clone https://github.com/Mickaell22/TallerMoviles_API.git
+cd TallerMoviles_API
 npm install
 ```
 
@@ -54,4 +54,4 @@ node server.js
 
 ## Frontend
 
-Consumido por [proyecto-dawa-1](https://github.com/Mickaell22/proyecto-dawa-1) — React SPA.
+Consumido por [TallerMoviles_Frontend](https://github.com/Mickaell22/TallerMoviles_Frontend) — React SPA.
