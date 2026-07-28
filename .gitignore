@@ -1,1 +1,5 @@
 /node_modules
+
+# Variables de entorno reales (ver .env.example)
+.env
+!*.env.example
